@@ -1,0 +1,12 @@
+	A RADIO OBJECT
+
+What would be its ATTRIBUTES (data that describe its status)
+- band, such as AM or FM
+- station, such as 620 or 89.7
+- volume, an integer from 1 to 10
+
+What would be its METHODS (functions it performs)
+- set_band, change band attribute to AM or FM
+- set_station, select station attribute
+- set_volume, raise or lower the volume attribute
+- show_status, display all current attributes
